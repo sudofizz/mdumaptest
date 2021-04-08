@@ -1,0 +1,1786 @@
+@@ -0,0 +1,1785 @@
+{
+  "type": "FeatureCollection",
+  "fulcrum": {
+    "status_field": {
+      "label": "Pass / Fail",
+      "default_value": "no",
+      "choices": [
+        {
+          "label": "Fail",
+          "value": "no",
+          "color": "#CB0D0C"
+        },
+        {
+          "label": "Pass ",
+          "value": "yes",
+          "color": "#87D30F"
+        }
+      ]
+    },
+    "view_name": "Wyandotte MDU view 2"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "5",
+        "_server_updated_at": "2021-03-30T17:10:49.109Z",
+        "updated_by_name": "Jeff Strode",
+        "node_": [
+          "W12"
+        ],
+        "pon_": "5",
+        "map_": "49-50 48-50",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Underground"
+        ],
+        "pole_ped_": "PON 13-03-",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Jeff Fields"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=58876d0d-8144-4600-81d5-b58cadadd1e9&type=photo&expires=1617981634&signature=HBDKsRVen8E4Qk1sNBRc%2BfAEQOHOAeIiRen12OzkdaA%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=9a025fc8-b3de-4687-b8f9-f0bf65305fc5&type=photo&expires=1617981634&signature=vLAl29msqsiWRrLE%2BfjMPhCYq6LkfbwZN%2BEeihm%2B7dI%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=e5fa57ed-f810-44ab-a764-a0714ef8f839&type=photo&expires=1617981634&signature=qsgIL24D7LxNY3x6owFI61gSDbA1cyGKCGvzN61Yz3s%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=d75371a1-2be6-426e-a1b1-29af122f6efc&type=photo&expires=1617981634&signature=IHIQb9%2BQNtzDmfV7ssOws1mpissgyNgjVVIkvAh0q44%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=81ff227b-5aef-40b7-9d81-c42a9d0c0570&type=photo&expires=1617981634&signature=89u2MHhtbexJApLck2cJj7WCD%2FNLRdXfPEdiK2gNBD8%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=b9115bd1-7acd-4d6f-92a4-f6988464ad50&type=photo&expires=1617981634&signature=Usc5rhu2dNsPEPmQcU5OWaS1lStW3phSPOAWeePbw5Y%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=8b730d90-7966-4f9f-834e-cf4c3c7f02af&type=photo&expires=1617981634&signature=BP9%2BhEfjOASB0Bl5MZ8Kypy1EW97tMsGFxHMnProvXc%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=cacb7be1-aa09-4234-afa9-c7ff6f3af402&type=photo&expires=1617981634&signature=fC4A6dGXPklIxExqBRrhsNVGDvUyYQ3c26Vk4gcosJI%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=d94353b2-3ae1-4d96-a9d5-df4e5ea10489&type=photo&expires=1617981634&signature=R%2FmPccsrm9tGX7mOmJU76DVb9r1wjrQyf%2FXiZyAs7kI%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=aec74372-345c-4910-b503-59d66b3ddb5e&type=photo&expires=1617981634&signature=Og0WtwOyYIpZ5Vebygva5Fhks4fnt63JLfrklMahVxM%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=90029580-0ed7-473e-9c48-b92967f9431b&type=photo&expires=1617981634&signature=nfvk1Gzu%2BC%2BYFRRNopaTDRESdAFbCuX9g2G1pu%2Fmetw%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=801d761f-9772-44b4-8ad2-f3390d4fcd8a&type=photo&expires=1617981634&signature=aVhXQDSsXo7%2Fi%2BcpbAnapxVqVCqxuzSob3dok7xSQtU%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=b9620d1b-96f0-416c-81c9-93a8dd70f4c9&type=photo&expires=1617981634&signature=NVrczUdVaIpem%2B2eO2iT9bifUpE342rXNsInUi5GTfc%3D"
+        ],
+        "notes": "Small lock boxes not close to phone. Conduits buried in the wall behind brick challenge will pulling fiber in existing pipe ",
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=84602478-a3eb-4229-bdb1-09733bc7c250&type=signature&expires=1617981634&signature=rXuO0C5xjqrHXzhoq1qJ36%2BVqXvyDTYBeMJ1WlFPTYU%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1478184439,
+          42.2050689411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "4",
+        "_server_updated_at": "2021-03-30T16:29:38.683Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W01"
+        ],
+        "pon_": "4",
+        "map_": "48-49",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial",
+          "Underground"
+        ],
+        "pole_ped_": "PON 14-04",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=3a102a58-7db4-4aa5-9e08-f8480c176d74&type=photo&expires=1617981634&signature=CHVtfBS66rZZwu4XHRgiJRK4PkdUGqb4e2Z4QcloUWY%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=5bc09b92-3e30-4a1a-8a81-7633af5c2464&type=photo&expires=1617981634&signature=0gLvc5eeFeslHirlyeqo%2BY3dHk5%2F1HXfX83MXHhOWDs%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=cfbf91c1-71ab-498d-bc6b-5aeeba80c5ca&type=photo&expires=1617981634&signature=MQcIkqFhW2Ok35SG9aJ839CNlBOQVowXdI1JsVrt9yU%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=f677deca-bd69-426b-937f-69caa7bf2842&type=photo&expires=1617981634&signature=VPXWdVAZ1IVJ34Gfgj83dO91wmPCKxuPThLt9yS0ytg%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=ebdf9a38-6955-47c9-b973-0f35d29e1937&type=photo&expires=1617981634&signature=MoVZRp9m3bq%2FB2VAfnNGiyf2dZOrLcteO1SmwGPTagI%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=4bd1c0e8-c776-448e-a185-3ade7ac4d966&type=photo&expires=1617981634&signature=nnxq3Fi6wXqwpZagEyCb%2BRhdqUrOx74KNYQfGSAt200%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=b24aa866-b89d-459a-b835-17c895681329&type=photo&expires=1617981634&signature=ZsCQIHZ9DMNqf6A2EktZ%2Fffje%2BJXvgY25MyPGnAKcIE%3D"
+        ],
+        "notes": "52 unit in 2 buildings small lock boxes exterior and need for per upgrade. Need solution for mounting in current location. ",
+        "pole_needs_replaced": "No",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=76a24f89-8d2f-4177-bd68-1fbb78496c25&type=signature&expires=1617981634&signature=V%2FFBxaRV7O4o72IQs8ZMy8fAeXTuswmZm5E0enXGdLo%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1592398779941,
+          42.20577445674142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "3",
+        "_server_updated_at": "2021-03-30T16:29:37.136Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W12"
+        ],
+        "pon_": "3",
+        "map_": "48-49",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial",
+          "Underground"
+        ],
+        "pole_ped_": "PON 14-03",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=ad016503-29ee-4dc1-b74d-1b4410bd76ca&type=photo&expires=1617981634&signature=pL9j8Ml4zpM02EQwQS9I5g8TpPS2%2FlZQScpBbW4TFvo%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=dc901249-951f-405b-a320-fe487ecec828&type=photo&expires=1617981634&signature=nWpoZyS2pTa4llVKM1i1LuVVwRTGmB23NEPikpJxn80%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=57a95c3d-a067-4297-a863-a35719f11f84&type=photo&expires=1617981634&signature=iQwIwIMnUPxR%2FmbrPQg4nL3DDmeVeQ42wYDyRPszJh4%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=87f058c9-f242-4927-b07c-8cc43d6612d6&type=photo&expires=1617981634&signature=zaIa%2B1o6uINRfgJrWJwLpdxjGwK9SzevBy6utuw57Dc%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=d2fbe448-14fa-4e39-bd9b-4693cb98c90f&type=photo&expires=1617981634&signature=N2L7JMIkxoOcWcjS0WvI3MWCWbzzwP46z7pTiMbcAlE%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=ed7edefb-053d-493f-9df5-bb535b1926af&type=photo&expires=1617981634&signature=bWbEIfIPYHerSWzv0V%2FK017Awe%2B7J6Mew4C0WC43f8c%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=3c8fa806-09f8-4d7f-847e-d91575aff719&type=photo&expires=1617981634&signature=MbN9GOAUXJetsahkAjQb4uUbvs3cd9YSKwq4YzMEaNo%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=d67e03a7-8635-4dcb-8b9d-9ea860e31ec3&type=photo&expires=1617981634&signature=stwgNpI4WX9QOTwBYYnkvYVroYRwk3Q9Y5qzMf88BEs%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=0c1a3e67-1ebe-43a1-8eea-b7eff737f22c&type=photo&expires=1617981634&signature=xMzumDO8%2FokBren7N6FgBCCVxQho%2FrGL01VkNweDek0%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=26de5829-0f41-496d-bed6-cd0ba840fc37&type=photo&expires=1617981634&signature=fgdpYbkvq8NKFzgznGRQ405N3F5c6oQspqkQrSsU9yk%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=7f3057e1-66f1-463a-9bb1-335ae3a7d50b&type=photo&expires=1617981634&signature=M1HvgSEtSoW2aukAxpgx%2FvJacI37IiMOKlf1WvUYp7g%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=47a90620-70ab-4fed-85a2-37306a1127b5&type=photo&expires=1617981634&signature=RLg9Ul9jXPsrWyXrHFsQpprOf6MTF%2B33MXXOLG%2FUD%2Bs%3D"
+        ],
+        "notes": "I don’t see a possible way to pull drops in between pipes and buildings with active plant need re-design building in MDU incorrect on drop counts. Pads will need to be upgraded along with lockboxes",
+        "pole_needs_replaced": "Yes",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=b3e73b2d-9f01-46ce-845e-d178b57bca80&type=signature&expires=1617981634&signature=lZe8UkLOoJJZkGtqX1hFpWAmhVQubOUTF9rikjnMO%2BE%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1593566203417,
+          42.20731042156046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "3",
+        "_server_updated_at": "2021-03-30T16:29:36.110Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W09"
+        ],
+        "pon_": "3",
+        "map_": "50-47",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "PON 30",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=1add6948-8331-4025-971b-4a796711e6f7&type=photo&expires=1617981634&signature=apfGM6PzBod3YhUQ%2BJMbJymU4ovZhhK9ZbOaFEu7roY%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=4a6aed6f-a57b-48b1-af87-32ea3de6b976&type=photo&expires=1617981634&signature=k2tL7AzXt0BiY5fWSj1D4i1UVC8mALpO1u34gr1DLsA%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=78916f80-2284-4039-85ae-d4efa5294596&type=photo&expires=1617981634&signature=Duca4d495CjMWbEH7pNy7sCF8qbyaaKpOF0zF6fOwR0%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=1b0021a8-f182-4264-8541-b3555d1aea7b&type=photo&expires=1617981634&signature=HueCuhVaAChagXAX05Cf1ln1pPoW3f8BBYFE7itofuA%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=b8b9ea53-554c-4dc6-b319-942919e3d88e&type=photo&expires=1617981634&signature=e3y%2BoPb9z%2F5MIoTMpv6ryQ3dgdp0M83XeBbqgaBgiv8%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=dba740c5-a602-4433-8282-026d892716c2&type=photo&expires=1617981634&signature=5BlOF5yKsK0cA6%2BjJyZpiFfK2TZOlU43FNet5bt%2BWy0%3D"
+        ],
+        "notes": null,
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=c4ebdb5c-02a9-472c-84d1-3812663af59e&type=signature&expires=1617981634&signature=Ixm9JN9yJWuH4yMQpP8X9DSNLhWmtcb4pxeacmeNXzs%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16712141418162,
+          42.200946965104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "2",
+        "_server_updated_at": "2021-03-30T16:29:35.464Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W07"
+        ],
+        "pon_": "2",
+        "map_": "45-47",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "PON 28",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=11f26905-616f-4e09-8b22-939f823c4b27&type=photo&expires=1617981634&signature=8MWCcz4XujvwW5wHpFavINopGu5Dv8VqgGmjFxLP3Ck%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=09232ae0-2cfc-4cde-b1c2-e5e424f19c7d&type=photo&expires=1617981634&signature=fJE1txqKgckPFDpJSv3ORGDaUaiFtFLkE5s46Ejoz%2FE%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=f6b5d879-5d81-484c-a0d8-03e64a3b5f67&type=photo&expires=1617981634&signature=pg%2F3B67jARkmEvYlbV1HuPtC1pT68awTj1dB3rg4cJQ%3D"
+        ],
+        "notes": "28 port OTE is attached to building lock box mounted hi too small to accommodate need aerial drop to feed",
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=c384c510-cc32-48b1-a812-869e8d9f8118&type=signature&expires=1617981634&signature=vhIJU%2BqFyTzOYgzlhrqqVpCUFN3AlfdKRPHKoxWa2yQ%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1705025770784,
+          42.21345604475336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "2",
+        "_server_updated_at": "2021-03-30T16:29:34.657Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W07"
+        ],
+        "pon_": "2",
+        "map_": "45-47",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "PON 27",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=59fcfe56-f570-4f06-88ea-7c801a72dd68&type=photo&expires=1617981634&signature=Q4ICBqoMYtOl8KeTVIrSAGs7WVUpFi98Hx2JJ9ILhlw%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=1e12cc9e-7ecf-4252-84d7-e2ff2e90534b&type=photo&expires=1617981634&signature=pCP8xp9RM3fGlJyF2bE%2BfiGyYB7g8uHqZG4ZJgRDZtA%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=b07dec20-f7b2-4f91-8a51-b591474e8602&type=photo&expires=1617981634&signature=uOHFVu10bHITsEpgEbJO4cAkiokJrTNyxdAvn6Lnrno%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=f49c4c77-34ee-4948-a3f9-22c29be0b378&type=photo&expires=1617981634&signature=enRZrenTMSCwC0JEF%2FW9x78wry0mHNdGHKZh0h5dWwU%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=dfb300e0-1457-4775-868e-d88ed4d357eb&type=photo&expires=1617981634&signature=YXJzugRmzDpbAkmnefdRvvD%2FxPD%2BZLC9fKgirxD%2FSQ4%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=348434af-99b5-4c1c-8072-f0be7faf47f9&type=photo&expires=1617981634&signature=LoivAFq6hb7JWSxdKJe5Qp2RHOlSqBl01ILS6pLHppc%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=5b5fdfb7-a2fd-4ebd-ae3b-69b1a7630231&type=photo&expires=1617981634&signature=FqZhIFv%2FixlE%2FeV%2F9jxEclSfvH8V%2FqSFVvKH8WPO0K8%3D"
+        ],
+        "notes": "Design calls for eight port tabs to be mounted on two buildings both six units need lockbox upgrade",
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=c4254f13-5cf4-428f-bb3f-5ad428feb4ac&type=signature&expires=1617981634&signature=XIpxERAEHeBebzBgznChkeYloea9RKhAT2aHS%2BhnHCY%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16923890987756,
+          42.213795585388404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "2",
+        "_server_updated_at": "2021-03-30T16:29:33.939Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W07"
+        ],
+        "pon_": "2",
+        "map_": "45-47",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "PON 26",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=bd2a5d72-b72a-458a-942f-1daefa0907ca&type=photo&expires=1617981634&signature=mrKaDammK%2B3UEAosUfXlSCcoXsFNEb4d1mG%2Fe7%2ByC2M%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=f59bbd0a-b71f-41de-9e03-a8163b03b128&type=photo&expires=1617981634&signature=QS4%2FD6%2BQtZyJlrWJnFhx6PLW0SLPmXs%2Fg8P3PLg4%2BWQ%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=68392f2f-0043-46c3-a8fe-16ed0cc85e0e&type=photo&expires=1617981634&signature=Pvh8EyFWoDo7e1QZ6BIxMRfNOLDF95W46gE%2BzIWyMjU%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=676a1d9c-7c94-432b-ba09-a7380794e66c&type=photo&expires=1617981634&signature=LeIyaen4Dm6ouQny8tzaicW2PeiRELTD9kJvvOmwpNQ%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=7674ae1e-87d3-478e-8b34-0066e929e9e7&type=photo&expires=1617981634&signature=JSZ4SI5ahENzfbIlFP7tYLj9FukreM%2BNB1iCvaJtqvw%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=aaf94cd3-0df5-4951-bf38-ca9a2a7d6f39&type=photo&expires=1617981634&signature=l%2BLazoOYyU3lXUsDbsG%2FU%2BsfiIqeLIdKUw9GUPbcZhY%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=e47eb7c7-07ab-4acf-9742-c81cef1c3fcc&type=photo&expires=1617981634&signature=BHAUpPdpT0t4weCcXRfEl1W1cl2YeALV3%2FCzwfw%2FbOk%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=e57b0941-80d5-473e-9503-54ab2fad6459&type=photo&expires=1617981634&signature=8bArxUI7TI58FYiVxTggJy5bIoR4kXntt7F1MZZnFkQ%3D"
+        ],
+        "notes": "Taps are at Paul design shows aerial drops feeding each unit need. Need to review for cosmetics",
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=2d2cf4eb-16da-40bf-8124-386023cf6ca4&type=signature&expires=1617981634&signature=aWK%2BEGCBVumaX17GDUQtlsI3%2BM3qrSUDw7KFfgXiPUw%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1681096887841,
+          42.21359082777446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "3",
+        "_server_updated_at": "2021-03-30T16:29:33.207Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W09"
+        ],
+        "pon_": "3",
+        "map_": "50-47",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial",
+          "Underground"
+        ],
+        "pole_ped_": "6 unit",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=79f1b5b9-89af-4246-8ee0-4fb089862f2a&type=photo&expires=1617981634&signature=j9Se8k91enaC%2BHCN6WTAqUm%2FC%2B7263sZimPYxLIXAHM%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=591b2be7-5589-49c8-839f-3e8e715b6d50&type=photo&expires=1617981634&signature=iw7zoM6dBwPJxiTFwJHWuG%2F9cJRji5aXR82CSoHqO1w%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=c7980c82-caf5-4836-8fab-a9f7a745079c&type=photo&expires=1617981634&signature=mK8OT1TERzhxUJ7EUmP7mvHP9CHFbZglZdRICoKsCw8%3D"
+        ],
+        "notes": "Six unit building has pole riser to lockbox very small. All sealed in 2” conduit nothing exposed. Will require remove of lockbox and ote placement location",
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=48c31897-ab33-4d9d-b83b-13592c0c06ce&type=signature&expires=1617981634&signature=DF0JL2i3bb3Ej%2FjSrOYYayDQ%2FTATUraTlur485HyDRk%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16587400526588,
+          42.20025406732366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "3",
+        "_server_updated_at": "2021-03-30T16:29:32.506Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W09"
+        ],
+        "pon_": "3",
+        "map_": "50-47",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "PON 38",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=51921578-042e-434d-9b6e-e55e1250448b&type=photo&expires=1617981634&signature=IyvN9rFWULWFnXa6vNqBMvk3%2Bj5U4p9EdvA95Ynt17E%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=6c3588f2-8226-4041-ac3f-3d3fbaba2322&type=photo&expires=1617981634&signature=aNbPZmHN%2FORYFL9TVaQZKzDYoQRdWI0zSbx5L83dg1o%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=45c46e50-5dec-4b01-8c8a-57eb7472a7e0&type=photo&expires=1617981634&signature=%2B%2FBCPUsAS3UQ3Z%2BAk1dp6%2FyzHdLhaMHGDbo72%2Ff5tGY%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=6af84977-55a4-4e77-8a9e-58d5a5c27bb6&type=photo&expires=1617981634&signature=T2CD%2FZQY7C5tYIGEWXVTfkoVLqmtf4VhkVmQEvbwtl0%3D"
+        ],
+        "notes": "To building 12 units each said from same pole need lockbox upgrade solution",
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=85c3f550-59dd-4c31-9edd-f8eb623d023e&type=signature&expires=1617981634&signature=UBeLk7C2UqWnaIMRtJ%2Bs5GRsruqstleL%2B8pIuH8N5WA%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16687183812137,
+          42.20029855296611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "3",
+        "_server_updated_at": "2021-03-30T16:29:31.970Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W09"
+        ],
+        "pon_": "3",
+        "map_": "50-47",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "PON 37",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=fb51d5c8-1a06-47cb-bbf8-8d6706c01f03&type=photo&expires=1617981634&signature=%2BXTEu1%2FftehdHFNcrehKhnJ%2FSpmY144aCC3l4DF26V0%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=a4a0c3d0-5a9c-4831-810f-0ea3d42e802a&type=photo&expires=1617981634&signature=tBhTGCgClSShoPnyNa5cRQql2jflSHWJ%2FEv9blz2TLU%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=2ce980a5-1268-43af-8cd1-6c31533a817d&type=photo&expires=1617981634&signature=A3Jap%2BJtuqzuiZxvTmeP9jdLlteveEujLgTkyeHOyig%3D"
+        ],
+        "notes": "Design splits tap ports for unit between pole and building. Need lockbox solution",
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=2f65086c-7db4-46b8-9e87-11ed89586cb1&type=signature&expires=1617981634&signature=CFAf2Lk59txAL9m029%2B0L4MIHvFGuYR4i7VHKwImryg%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16740702854355,
+          42.20032829744324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "3",
+        "_server_updated_at": "2021-03-30T16:29:31.382Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W09"
+        ],
+        "pon_": "3",
+        "map_": "50-47",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "PON 34",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=ed9ecec0-dd65-454c-b72f-f92b475ee7f4&type=photo&expires=1617981634&signature=rXIEngvh6wbGGyJOMDqLD3vDWu%2FieguFqNR57dc%2FYJs%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=8a0e820f-68c4-49c5-936a-b9e036855b13&type=photo&expires=1617981634&signature=YpeOifcdnkfz936aFpW8mfGIS5X2U2vjJidzWbNZ4Sg%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=47f1f5d7-b9e6-4846-9730-6d9798a014f5&type=photo&expires=1617981634&signature=eFXBAwH4Ov%2FSYpJWAuy4A%2F8h%2BU2AIrNhlgKuEJpt7aA%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=9a27ea02-6986-42b4-a294-3a12451d2ab6&type=photo&expires=1617981634&signature=nKBjyqSE5kKzSSQzLUj0W2edvMnFXxPuzIM%2FqJQlG%2Fs%3D"
+        ],
+        "notes": "For unit apartment current coax running under eve soffit two units hot tap from end of line",
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=4b0d6b1d-94a0-4caa-bbac-0f098dfb9652&type=signature&expires=1617981634&signature=lnkhaWSXlDKbpVlV0GmwVmvFIcassgEwRo%2FTZveFkKM%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16937687674101,
+          42.20176070667305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "3",
+        "_server_updated_at": "2021-03-30T16:29:30.754Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W09"
+        ],
+        "pon_": "3",
+        "map_": "50-47",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "PON 34",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=ee183707-2d24-48a6-b30b-bc60d6b8f36b&type=photo&expires=1617981634&signature=Khg8j3CFlS6Lo9tJIUDYiRGPn97whU8cBdoJpBCWUjA%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=90843070-cd1a-43fc-b028-102e34a88b57&type=photo&expires=1617981634&signature=pr5vFamggidWCjkCDjGrhqhcAnUB7B4Xjwrcm7PGM1Y%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=13d78424-3296-4ec9-aabb-900073f565ec&type=photo&expires=1617981634&signature=wLyQAIKvfeEVSd3CrCFbLSxjTXMlQCJLzmPyHLbKMA4%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=6e446243-d5c8-42d1-ad0d-27444e94dac1&type=photo&expires=1617981634&signature=TSN9MoK4FU%2BY%2FCGu6LxyjnMykalPT3CFWrJROadZ1js%3D"
+        ],
+        "notes": "Need lockbox solution for two OTE taps. Could follow phone into where phone panel is internal of bldg ",
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=32994b6f-180e-49c5-8293-d700260623f0&type=signature&expires=1617981634&signature=Oxk7EIyZeSOcZJTAnfmlKDcrLdLIgKIof0jQUJMK3WM%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1704219232825,
+          42.201772512960204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "3",
+        "_server_updated_at": "2021-03-30T16:29:30.230Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W09"
+        ],
+        "pon_": "3",
+        "map_": "50-47",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "PON 36",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=0e3fd7c4-a8f6-4e6b-a93b-62a11fb09774&type=photo&expires=1617981634&signature=CQWaelUQFLWk%2FtwAY3xo2Mk26P197YcEno1qgaHjXw8%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=a4fa6221-9749-4022-9b6f-a4d34a79f65f&type=photo&expires=1617981634&signature=lHHQVvCQpbD2sWatHVmGPbNYvTbpjGd8iJTpxX3FpWs%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=13a129d8-19e8-4396-ab03-e29355134c5b&type=photo&expires=1617981634&signature=dBcyAr13B1h67dlmFHBqwQ3jS%2B8uw0ZD3%2FHXpq8EAWs%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=e8ee44a8-cb8e-42d2-a005-419f0ea0354b&type=photo&expires=1617981634&signature=QQ1unOZakEtiKJzB8q8zsSJneRsG%2BcgfAnYqD24oo0A%3D"
+        ],
+        "notes": "Need lockbox upgrade for size possible power solution for Owen you install fed from RG6 hot tap",
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=316a1abe-900b-4a6c-ba5a-a822fadf59f7&type=signature&expires=1617981634&signature=DA3HI734Yd1C2UdjFLUoNIh%2FqWJyfn0%2B%2BAIwnacGAE8%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17110879901294,
+          42.200170867001674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "7",
+        "_server_updated_at": "2021-03-30T16:29:29.538Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W11"
+        ],
+        "pon_": "7",
+        "map_": "13th and Pine ",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "Na",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=2163789c-0108-432a-82e3-37be8eece2f2&type=photo&expires=1617981634&signature=oXZBiqxq9IIZK4L83y7s6kLYAthDkxkkJO7%2FkwxY%2BG8%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=915a8f9f-3995-42c3-88a9-4787a49116db&type=photo&expires=1617981634&signature=ifUX%2BFT1GuBOoalKKi2eiW9y1S7idgi99pTUAxPNYYU%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=67d6ce6d-dfd4-425d-91cf-8701322e9d5f&type=photo&expires=1617981634&signature=m0UyNFt5G%2BLOcf7iKpuQP%2Fc2E8A247TxskRUBD9I3EY%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=fb19c57e-c97b-41c7-9a22-96a2172251ff&type=photo&expires=1617981634&signature=6zeRWffMmSypmfXZa4YFXMW%2F9VKvFkpfRESxopduBnw%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=8fe3257f-bdc5-4b69-ba41-dfdf5e6d67e5&type=photo&expires=1617981634&signature=JMTRLlhID8pgfinhRuLhKfWwNbYRbCnQbxdwPO2vbEM%3D"
+        ],
+        "notes": "Eight unit building tie point aerial RG six from tap to small lock boxes units wired through conduit",
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=4acabd58-9123-436e-8545-b891751faf9e&type=signature&expires=1617981634&signature=450LNiF5q7SqGLtoaoUQ0gJZ%2BQdYRXBhM95Gs5Sq%2BM0%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16853802408177,
+          42.19791305397639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "10",
+        "_server_updated_at": "2021-03-30T16:29:28.698Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W10"
+        ],
+        "pon_": "10",
+        "map_": "54-45",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "6 unit",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=fd5ad9b9-1e14-44ec-b143-7b364e0ed50b&type=photo&expires=1617981634&signature=XjIuS7L4mw8ukmNEHDfaCM%2Bjr9xuGJfmvGkszcHZ98o%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=2ffc7489-9f83-40e1-be72-881965632dde&type=photo&expires=1617981634&signature=VLfHm50QdunYnPnJXdl%2Bnj4zYhHsKW8r9cv6ov3Q%2Fqc%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=eeb32a90-e441-47ba-98d0-0134568af57a&type=photo&expires=1617981634&signature=e8otAhdHSkVuAfvYBRWBRssGYAth2lsU8lDd8djFe0g%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=683aa458-a87f-4a75-9158-319cc992edd5&type=photo&expires=1617981634&signature=pZg81Vqa3P2G5QdxxxwUo%2FGW%2BidBkqx%2FMRRaewMh0Rc%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=41a299c8-1a31-4804-8c80-e18acb208061&type=photo&expires=1617981634&signature=%2BcNumBdAQFhQ%2F2UxONGzQ2BAGLHtJFqrsDHKJBFnomQ%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=f6dc83c9-2055-498a-9dcb-e17857a08826&type=photo&expires=1617981634&signature=hsL0WYhOMaeM5SXPIwQpB8BJN102VYMHNSsadPgbJTg%3D"
+        ],
+        "notes": "Same as building to the north with less drops attach OTE to building. Need lockbox solution ",
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=4db4e1cb-73cb-4d8a-a18b-0540e166fb87&type=signature&expires=1617981634&signature=NJEiURoHuu4Fp5nHNvh57OtLCu1Xdqsasg%2B6GGoGn4Y%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17941166781056,
+          42.187899434234446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "10",
+        "_server_updated_at": "2021-03-30T16:29:27.708Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W10"
+        ],
+        "pon_": "10",
+        "map_": "54-45",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "6 unit",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=e1bf12be-92a2-486d-b0e3-60547b787dcf&type=photo&expires=1617981634&signature=3p7H33arZ80TLHL1L6FxITlPHd%2B0AprR%2BJrB4T%2Frhhk%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=94dd3652-89d5-45ab-aee6-979289b61100&type=photo&expires=1617981634&signature=M0Fx%2B455YI%2FVCV0wq2aouByP0lQ5tzSG%2FZz9meDbrPw%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=3714161f-50f9-427e-9d24-1fa280812ae0&type=photo&expires=1617981634&signature=j1c3osFo4li16zsuM4gIY2mI2Q%2Fx%2B6paSkhPMhGQfwM%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=3cb4a7d9-8e86-4c37-ad18-e55aebd3814c&type=photo&expires=1617981634&signature=t8%2FqjGjQMHq8K3BcvA77nKXV766sd6SwCbScdh7F6t8%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=8eaf4a78-99c7-4188-959c-2498520d8871&type=photo&expires=1617981634&signature=ntweDbqSBtIBM1A1SDmx%2FoKuL%2FcRS%2FVqBKx1SPloPvY%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=942bdebb-b2a5-4a15-9e50-7b1e68130176&type=photo&expires=1617981634&signature=L%2BtDOL2aIBiEokbfz6Jl0IFGihZLt9OzelqRTSV77y0%3D"
+        ],
+        "notes": "New design showing units fed from drop at pole. Currently being fed by hot tap to single lockbox location",
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=7a7edb11-d399-4b6d-96fd-0f235c69ce9a&type=signature&expires=1617981634&signature=S9HYQaZgZ%2FEw0FWj4RHuRZwWi9kXxzpkW%2FGeHINESEk%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17918617638892,
+          42.18858736929013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "9",
+        "_server_updated_at": "2021-03-30T16:29:26.999Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W10"
+        ],
+        "pon_": "9",
+        "map_": "54-45",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "3 Unit",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=9aca1e76-ea65-447e-a0b0-2a9bdf2c79c2&type=photo&expires=1617981634&signature=%2B3dle6sHbSFgJtMRIbfNSswKG%2Fo%2FX38Rozv7fXdWDfo%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=3b1e04fa-0f39-4e1b-94bc-dae85bc14e84&type=photo&expires=1617981634&signature=DJX0KYEnI79XzJdmeqXl5KF2vkFJQz17BOzONNsNYu0%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=7cf5629e-fa0e-4c91-9280-9e916840eded&type=photo&expires=1617981634&signature=BeSJFy2lUaZ4ehNdkpaCf%2BMCf8XPNbbJ6cqxQgT%2FNmU%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=ee565fe4-d542-42fb-854a-40d7d66092a2&type=photo&expires=1617981634&signature=2oV834%2F9arnHnnOHuVy1Lz99XYpYPPJCTuOyEv5rm1U%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=b7191259-3106-4567-bb67-709ff9753b57&type=photo&expires=1617981634&signature=%2B19mzUyVtc3OPXVaNOA31Y1C0Kp2m7xEGmWClb3m33c%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=ca087faf-6f39-4f22-a9c3-b7b00fb4b248&type=photo&expires=1617981634&signature=uPIrZ6RpCgdG3yDDvZuI5795ABkuYjszmszMD%2FONPEs%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=6e524162-5877-4ddb-aac8-22440bf089bd&type=photo&expires=1617981634&signature=JUtALkhJMbztHObwX%2F8D4dMNTAJTpn2cFolR7og2zaE%3D"
+        ],
+        "notes": "MDQ not on design map currently fed with single hot drop from tap pin- F. Can be fed with three single drops across the parking lot each unit drop enter at separate locations ",
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=1ac85c12-86c2-4484-8653-004880785761&type=signature&expires=1617981634&signature=M4PVkAfmgQKHvu0PoaHp92D6A1n6ht1q%2FbaiuWtkmP8%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17919336250642,
+          42.188941850761076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "9",
+        "_server_updated_at": "2021-03-30T16:29:26.255Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W10"
+        ],
+        "pon_": "9",
+        "map_": "54-45",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "10 unit",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=7720ef0c-1371-4579-b8d5-2410e47d8d10&type=photo&expires=1617981634&signature=3VD48ovMtCwHnYXFQois0QHWhpXWK%2BQFd1OI1KKV5Zo%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=b37fee3c-66bf-4e9d-92bc-a95b55cf1e8f&type=photo&expires=1617981634&signature=jHA56TcPiVGJhEb6irmuir5%2BMtVfVToCfr8UZSLrQ%2Bg%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=25851d88-c987-47d9-ad03-1dd9cf7fa98a&type=photo&expires=1617981634&signature=ZYwggO8I4GHHWkDqPms6F9IvuK9eA1yVN0vtvPr%2BnIs%3D"
+        ],
+        "notes": "Multiple splitters mounted to walls around units phone drops spread across entire building multiple boxes",
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=9617b1bd-6df2-466e-8a09-f6f8e6aa6131&type=signature&expires=1617981634&signature=%2FMwDpVdWDBW636FUw3apRplIKCcRd2zH8Sij2gmlAGk%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17929266915097,
+          42.189004657108455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "8",
+        "_server_updated_at": "2021-03-30T16:29:25.649Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W10"
+        ],
+        "pon_": "8",
+        "map_": "54-45",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "12 unit ",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=a9cbf60c-9e25-490a-9bff-be6d78673a6b&type=photo&expires=1617981634&signature=8%2FfMCtQScRkB6W0GfjGYZzy8Wm2Azt3uzw6VOFkRR0E%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=e61abab1-4f6b-4746-beb3-189e01f26947&type=photo&expires=1617981634&signature=FEgfJ7TlDTMJAdJok2Du45jI0Bt0IFZmxxxB7EMQnQM%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=c2663a93-03f5-4170-8fd5-66fc3d5c8c8d&type=photo&expires=1617981634&signature=uCwgroi9lYkv%2FOY1NZB4LoAKk0FizPrj1z6y0vSt%2Fcw%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=6180a009-7384-435d-884f-9b1bfff4925f&type=photo&expires=1617981634&signature=h66kQ4RV4MZrM5yNNlCNK3FpSj9lJIgMY0AwFOPCAGM%3D"
+        ],
+        "notes": null,
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=140902a5-baa7-40b0-a95a-5c7fa874f562&type=signature&expires=1617981634&signature=DN363VwwHTsxqOS5wbINUEZhAvezn5G5eOMIe%2F%2FZRl0%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17969260576616,
+          42.19010883603505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "7",
+        "_server_updated_at": "2021-03-30T16:29:25.100Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W11"
+        ],
+        "pon_": "7",
+        "map_": "13th and Pine ",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "Na",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=fb9130c9-5e2b-4654-b8eb-78972600664b&type=photo&expires=1617981634&signature=KJvs3SicDcSbXAlkw1MfKqEYWYMHY9J%2FashqY91ulpc%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=2d3f69d9-c5af-49fa-9fa1-7e7121da1e71&type=photo&expires=1617981634&signature=Mg7jB6wEdrb2%2F4Rh560TEmjdRXwUZyRXbx8NbmZpnBc%3D"
+        ],
+        "notes": null,
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=fc454706-d037-4973-8be0-c0a14252ca43&type=signature&expires=1617981634&signature=2BTxgsUPVwX0ipmRwMxk4PsbjhIR5C1yxV1bvvt9Ejo%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1688277091318,
+          42.19797726304429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "11",
+        "_server_updated_at": "2021-03-30T16:29:24.239Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W11"
+        ],
+        "pon_": "11",
+        "map_": "11th and eureka",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial",
+          "Underground"
+        ],
+        "pole_ped_": "16 units",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=f93400e6-7ecd-4016-b905-928425022130&type=photo&expires=1617981634&signature=z14%2F%2FZQnhLfBIatkcuGdk4H%2BCSK8T0rS6zSAMcNLXmM%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=0db23071-a8a2-4487-9f0f-1a5a4512ad7b&type=photo&expires=1617981634&signature=jUhrKsxKsGRUSpDfXnH65tmYsy3DnDsjXkU1mUjuaQw%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=52cb0d75-b34d-4734-9df3-b923165863e6&type=photo&expires=1617981634&signature=jKDWtq0MRM0BCs68lzBMrbMIrTYExZzMFTX2RvGzo2w%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=c6cf6ab8-e1f8-409b-a5de-32dd135c35df&type=photo&expires=1617981634&signature=HLPCZ0ltU7vc1UfZLz9sLu0gPQLmS6TNPjOTGQS%2FPkA%3D"
+        ],
+        "notes": "Need keys to validate drop count. Map data incorrect riser down to underground lockbox location. ",
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=9bcc4f14-5661-414d-bb53-00e64878e602&type=signature&expires=1617981634&signature=sO%2F52F9fPFgAEFdNYiDOpJEJKhjo50l4DAvW01TBZV4%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16673025555474,
+          42.199278394567656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "11",
+        "_server_updated_at": "2021-03-30T16:29:23.607Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W11"
+        ],
+        "pon_": "11",
+        "map_": "11th and eureka",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "NA",
+        "date_recieved": "2021-03-26T00:00:00.000Z",
+        "date_qcd": "2021-03-26T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=b643ddb8-4726-4b28-9b93-7374c1c2b98f&type=photo&expires=1617981634&signature=8%2BN82%2FoXhTnU73ZOAPKvhIJB2Uz8g2JwkTU8tI4MU84%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=8c825ac8-1ef8-4d37-90c4-45e02627c708&type=photo&expires=1617981634&signature=iYQdBGgUDz%2BViJ6sW9zxP2JvYoGRPYUHvh7m2wt%2Bm8Y%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=c057a8ad-4429-4c24-ac7f-d879940cda5e&type=photo&expires=1617981634&signature=vv26KcjwdiR1SlVLDjDALn9Qrz%2FggP5KERq2unzP3aE%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=1f72d5c7-62cf-4f2e-a011-08d00d3d2d67&type=photo&expires=1617981634&signature=q%2BSr9ZTbTieWyPQsK4gtFlNRSTePmJW1Q9xLNFtrx8Q%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=a19d04ae-b37f-426b-8b66-952420209802&type=photo&expires=1617981634&signature=gzNaAtk9kKbVWsvaUmL%2Fz7f2zCnhaJ0pSuVz3OrBNdk%3D"
+        ],
+        "notes": "Design calls for fiber to enter building and tap the mounted inside",
+        "pole_needs_replaced": "No",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "no",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=77c3db81-7bc6-48d8-8aea-84f2ea7a181a&type=signature&expires=1617981634&signature=DD29qGqwe6JPtFCq9NnaW1rhk2wDhfPZctgtlk%2F2rbc%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16640856437792,
+          42.1994396563082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "23",
+        "_server_updated_at": "2021-03-30T16:29:22.781Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W02"
+        ],
+        "pon_": "23",
+        "map_": "42-50 243 Stoll ave 8 unit ",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "NA",
+        "date_recieved": "2021-03-25T00:00:00.000Z",
+        "date_qcd": "2021-03-25T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=c77564d2-a525-4c29-b1cc-8119e5f9ef4e&type=photo&expires=1617981634&signature=bRWAlsJeukCuKDn5wABbrNSJQhYcSyaFLGaG9nSwnIk%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=dc99fa8b-03c9-49ab-bee9-6bfbd9c8fee2&type=photo&expires=1617981634&signature=tgjHVdDspnpw40gTHbLFCfSW%2BVz2bjukTfU5tYMPMmk%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=d4f010d0-f064-4030-bcb5-0907eae84ae8&type=photo&expires=1617981634&signature=ZMllhmr%2BQiQZKlX0GjbV6p7q1eRS%2FbUZP4y1jzNTZPg%3D"
+        ],
+        "notes": "Small lock box drops post wired through conduit need attachment to building and fiber framing to pull",
+        "pole_needs_replaced": "n/a",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": null,
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=a1884832-063d-4671-86fe-449207341242&type=signature&expires=1617981634&signature=tEkl5%2Bg8ryX0RMviHEFgiMcPSvXVdyzvl0IZBKjaWRw%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15366842510262,
+          42.22284177320987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_status": "no",
+        "_title": "23",
+        "_server_updated_at": "2021-03-30T16:29:22.032Z",
+        "updated_by_name": "JEFF FIELDS",
+        "node_": [
+          "W02"
+        ],
+        "pon_": "23",
+        "map_": "42-50 Goodall ave unit 314",
+        "work_description": [
+          "Construction"
+        ],
+        "work_type": [
+          "Aerial"
+        ],
+        "pole_ped_": "NA",
+        "date_recieved": "2021-03-25T00:00:00.000Z",
+        "date_qcd": "2021-03-25T00:00:00.000Z",
+        "commscope_qc": [
+          "Greg Robinson"
+        ],
+        "photos": [
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=33bfe849-ceee-40d0-b896-ecff4ed72b77&type=photo&expires=1617981634&signature=V9GTk1y5T%2BcnsjWUvWyC7XlWFqpoANYjk1Kba5tnlyU%3D",
+          "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=3c84be2a-bc2d-4476-a880-56e17a862096&type=photo&expires=1617981634&signature=w8CF4B60VAjF7ax98Y5r4yQlo%2F4R3n%2F5ZrZW1haLYsA%3D"
+        ],
+        "notes": "Hot tap RG6 to small lockbox ",
+        "pole_needs_replaced": "No",
+        "notes4": null,
+        "bond": "n/a",
+        "notes5": null,
+        "missing_hardware": "n/a",
+        "notes6": null,
+        "straps_spacers_": "n/a",
+        "notes7": null,
+        "fiber_id_tag_": "n/a",
+        "notes8": null,
+        "fiber_slack": "n/a",
+        "notes9": null,
+        "lashing": "n/a",
+        "notes10": null,
+        "snow_shoe": "n/a",
+        "notes11": null,
+        "loops_secure": "n/a",
+        "notes12": null,
+        "fiber_enclosure": "n/a",
+        "notes13": "May want to leave fiber tap up on pole",
+        "riser_guard": "n/a",
+        "notes14": null,
+        "fiber_vault_ped": "n/a",
+        "notes15": null,
+        "conduit_sealant": "n/a",
+        "notes16": null,
+        "work_area_clean_up": "yes",
+        "notes17": null,
+        "hold_invoice": "no",
+        "note18": null,
+        "qc_rep_signature": "https://web.fulcrumapp.com/api/v2/file?context=56805279-87af-4e94-ae69-82007df3f218&id=a44169be-7e24-4f15-9fee-bcf64ac1d488&type=signature&expires=1617981634&signature=HQyxTEuWJj2A0CvyVbtqBgyvVHa%2B8N5ZIFt0WlcfqhY%3D",
+        "marker-color": "#CB0D0C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15391596406698,
+          42.22275890540075
+        ]
+      }
+    }
+  ]
+} 
